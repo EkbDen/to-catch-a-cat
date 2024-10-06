@@ -2,4 +2,4 @@
 Игра в терминале про собаку, которая ловит кота.
 
 Создана по урокам из youtube канала Begin End. 
-![Catch Cat](https://github.com/user-attachments/assets/b67fdd43-ddc9-4d40-b7f0-06223c5fda1e)
+![Catch Cat](https://github.com/user-attachments/assets/66cbd5d6-cddb-49d1-906d-883f220c20ab)
